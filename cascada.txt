@@ -1,0 +1,5 @@
+Etapas de modelo cascada
+Requerimientos
+Diseño
+Desarrollo
+Implementacion
